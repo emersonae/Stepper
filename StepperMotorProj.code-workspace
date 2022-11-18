@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "StepperMotorProj",
+			"path": "."
+		},
+		{
+			"name": "Stepper Motor Python",
+			"path": "../Stepper Motor Python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"istream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}

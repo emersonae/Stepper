@@ -9,6 +9,7 @@
  */
 
 #include <Stepper.h>
+#include <Arduino.h>
 
 // change this to the number of steps on your motor
 #define STEPS 100
